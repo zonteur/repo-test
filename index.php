@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-
+    <link rel="stylesheet" href="style.css">
     <title>Repo test</title>
 </head>
 
